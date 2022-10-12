@@ -12,4 +12,4 @@ All works:
 ---
 
 **Insights obtained**  
-If we want homes which have proper facilities (AC, public transportation, SHM certificate, no flood, outdoor facililties, security) and lowest average price, Bekasi city is the best option given from dataset.
+If we want homes in Jabodebek area which have proper facilities (AC, public transportation, SHM certificate, no flood, outdoor facililties, security) and lowest average price, Bekasi city is the best option given from dataset.
